@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @N3tRunn3rr or just Kenji 
-- I'm currently enrolled in the UCF Full Stack Web Dev Bootcamp
-- I'm looking to collaborate on an open source project
-- My course ends in March and I will be looking for a beginner software engineering position upon completion
-- I plan on continuing my education with courses like Udemy to hone my skills further
+- 👋 Hi, I’m Kenji
+- I recently graduated from the UCF Full Stack Web Dev bootcamp
+- I am looking for work as a front-end or back-end developer and my goal is to work for Disney as a software developed in the coming years after I accrue more experience
 
 
 <!---

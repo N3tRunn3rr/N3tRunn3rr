@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Kenji
 - I graduated from the UCF Full Stack Web Dev bootcamp
-- I am starting a website building company with my friend Branden and look forward to sharing our work with everyone.
+- I enjoyed going through the accelerated course and working on a diverse group of projects alongside new team members for each one.
+- My main repository has assignments and group projects from the bootcamp as well as some websites my friend and I worked on for fun. 
 
 
 <!---
